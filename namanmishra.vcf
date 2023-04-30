@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mishra;Naman;;;
+FN:Naman Mishra
+ORG:Strello
+ADR;TYPE=WORK:
+TITLE:Co-founder
+TEL;TYPE=CELL:+916377343178
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:naman@strello.co
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=WhatsApp:https://wa.me/6377343178
+URL;TYPE=LinkedIn:https://linkedin.com/in/naman-mishra-913009195/
+URL;TYPE=Twitter:https://twitter.com/thatnaman
+URL;TYPE=GitHub:https://github.com/CoderMayhem
+URL;TYPE=Medium:https://medium.com/@namanmishra1900
+URL;TYPE=Instagram:https://instagram.com/thatnaman
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Entreprenuer, Developer, Guitarist
+UID:EnBizCard-100471883
+END:VCARD
